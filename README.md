@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- dynamic typing effect 动态打字效果 -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=console.log(%22Hello+World!%22);I'm+JK%2C+Have+a+nice+day!" alt="Typing SVG" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=console.log(%22Hello+World!%22);I'm+JK%2C+Have+a+nice+day!" alt="Typing SVG" />
 
 </div>
 
