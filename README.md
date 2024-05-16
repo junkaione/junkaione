@@ -1,7 +1,10 @@
 <div align="center">
 
-  <!-- dynamic typing effect 动态打字效果 -->
+  <!-- 打字效果 -->
   <a href="https://github.com/junkaione"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=console.log(%22Hello+World!%22);I'm+JK%2C+Have+a+nice+day!" alt="Typing SVG" /></a>
+
+  <!-- 敲代码图片 -->
+  <a href="https://sm.ms/image/n2wPkGMSgY7eKE3" target="_blank"><img src="https://s2.loli.net/2024/05/16/n2wPkGMSgY7eKE3.png" ></a>
 
 </div>
 
