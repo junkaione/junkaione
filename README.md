@@ -48,3 +48,11 @@
 ![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
+
+
+### About My Github
+
+<div align="left">
+  <img height='180' src="https://github-readme-stats.vercel.app/api/top-langs/?username=junkaione&layout=compact&langs_count=8" align="center" />
+  <img height='180' src="https://github-readme-stats.vercel.app/api?username=junkaione&show_icons=true" align="center" />
+</div> 
